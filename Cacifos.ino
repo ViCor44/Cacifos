@@ -22,23 +22,23 @@ void setup(){
   cacifo[1]=2395545;
   cacifo[2]=4856751;
   cacifo[3]=2406753;
-  cacifo[4]=4833019;
+  cacifo[4]=3425139;
   cacifo[5]=2387424;
   cacifo[6]=4825835;
   cacifo[7]=4830129;
   cacifo[8]=4830887;
-  cacifo[9]=4834345;
+  cacifo[9]=5003374;
   cacifo[10]=4825819;
   cacifo[11]=4856744;
-  cacifo[12]=4833076;
+  cacifo[12]=5000867;
   cacifo[13]=4826507;
   cacifo[14]=2395461;
-  cacifo[15]=5038366;
+  cacifo[15]=5014885;
   cacifo[16]=4857993;
   cacifo[17]=4856920;
   cacifo[18]=2382907;
   cacifo[19]=3429117;
-  cacifo[20]=4826975;
+  cacifo[20]=5020734;
   cacifo[21]=4829010;
   cacifo[22]=4831004;
   cacifo[23]=4829721;
@@ -50,28 +50,28 @@ void setup(){
   cacifo[29]=4856870;
   cacifo[30]=4856811;
   cacifo[31]=4855959;
-  cacifo[32]=3440078;
+  cacifo[32]=5002219;
   cacifo[33]=4825774;
   cacifo[34]=4829657;
   cacifo[35]=4823999;
-  cacifo[36]=2408962;
+  cacifo[36]=5043030;
   cacifo[37]=4830927;
   cacifo[38]=4830903;
   cacifo[39]=4826960;
   cacifo[40]=4828780;
-  cacifo[41]=4835605;
+  cacifo[41]=5020109;
   cacifo[42]=4826559;
   cacifo[43]=4830986;
-  cacifo[44]=4830845;
+  cacifo[44]=5022568;
   cacifo[45]=4856826;
   cacifo[46]=4857021;
   cacifo[47]=4832949;
-  cacifo[48]=4829638;
+  cacifo[48]=5008383;
   cacifo[49]=4829660;
   cacifo[50]=4833060;
   cacifo[51]=2394323;
   cacifo[52]=2393275;
-  cacifo[53]=2388122;
+  cacifo[53]=3375865;
   cacifo[54]=2393350;
   cacifo[55]=2391707;
   cacifo[56]=2384756;
@@ -89,9 +89,9 @@ void setup(){
   cacifo[68]=2377826;
   cacifo[69]=4990115;
   cacifo[70]=4833835;
-  cacifo[71]=2409913;
+  cacifo[71]=4982642;
   cacifo[72]=4828929;
-  cacifo[73]=4828893;
+  cacifo[73]=4984327;
   cacifo[74]=5642275;
   cacifo[75]=5037788;
   cacifo[76]=2387633;
@@ -118,7 +118,7 @@ void setup(){
   cacifo[97]=4833826;
   cacifo[98]=2368453;
   cacifo[99]=2377749;
-  cacifo[100]=2383653;
+  cacifo[100]=5031809;
   cacifo[101]=4825888;
   cacifo[102]=4825839;
   cacifo[103]=4823994;
@@ -127,15 +127,15 @@ void setup(){
   cacifo[106]=4857043;
   cacifo[107]=4825746;
   cacifo[108]=2404984;
-  cacifo[109]=4854141;
+  cacifo[109]=4995109;
   cacifo[110]=2399284;
   cacifo[111]=4857987;
-  cacifo[112]=4853998;
+  cacifo[112]=5014096;
   cacifo[113]=4823563;
   cacifo[114]=4828468;  
   cacifo[115]=4857053;
   cacifo[116]=4824011;
-  cacifo[117]=4823611;
+  cacifo[117]=3428982;
   cacifo[118]=4836172;
   cacifo[119]=2400252;
   cacifo[120]=4855967;
@@ -147,11 +147,11 @@ void setup(){
   cacifo[126]=4854095;
   cacifo[127]=4824004;
   cacifo[128]=2400169;
-  cacifo[129]=2404473;  
+  cacifo[129]=5031738;  
   cacifo[130]=5025686;
-  cacifo[131]=4857034;
+  cacifo[131]=5015416;
   cacifo[132]=4857951;
-  cacifo[133]=4834718;
+  cacifo[133]=5026304;
   cacifo[134]=4836166;
   cacifo[135]=4833023;
   cacifo[136]=4857974;  
@@ -164,7 +164,7 @@ void setup(){
   cacifo[143]=4833893;
   cacifo[144]=4832986;
   cacifo[145]=4833800;
-  cacifo[146]=4855806;
+  cacifo[146]=5009716;
   cacifo[147]=5021296;
   cacifo[148]=2392682;
   cacifo[149]=4855971;
@@ -173,7 +173,7 @@ void setup(){
   cacifo[152]=4856940;
   cacifo[153]=4829641;
   cacifo[154]=4829739;
-  cacifo[155]=4855926;
+  cacifo[155]=5016092;
   cacifo[156]=5002750;
   cacifo[157]=2405700;
   cacifo[158]=4857017;
@@ -181,19 +181,19 @@ void setup(){
   cacifo[160]=4836088;
   cacifo[161]=4835250;
   cacifo[162]=4832982;
-  cacifo[163]=4823572;
+  cacifo[163]=5037789;
   cacifo[164]=3437907;
   cacifo[165]=4828844;
   cacifo[166]=4816755;
-  cacifo[167]=2405869;
+  cacifo[167]=5000980;
   cacifo[168]=4857054;
   cacifo[169]=4855818;
   cacifo[170]=4829628;
   cacifo[171]=4835213;
   cacifo[172]=4855768;
   cacifo[173]=4826551;
-  cacifo[174]=2414295;
-  cacifo[175]=4833741;
+  cacifo[174]=3435091;
+  cacifo[175]=3368817;
   cacifo[176]=4855751;
   cacifo[177]=4828786;
   cacifo[178]=4832993;
@@ -217,8 +217,8 @@ void setup(){
   cacifo[196]=4816713;
   cacifo[197]=4856930;
   cacifo[198]=4828871;
-  cacifo[199]=4833791;
-  cacifo[200]=4858035;
+  cacifo[199]=3429015;
+  cacifo[200]=3435070;
   cacifo[201]=4830176;
   cacifo[202]=4823540;
   cacifo[203]=4857033;
@@ -250,7 +250,7 @@ void setup(){
   cacifo[229]=2396435;
   cacifo[230]=4833793;
   cacifo[231]=4856953;
-  cacifo[232]=4833057;
+  cacifo[232]=4985988;
   cacifo[233]=2393105;
   cacifo[234]=4826562;
   cacifo[235]=4816733;
@@ -261,14 +261,14 @@ void setup(){
   cacifo[240]=4855838;
   cacifo[241]=4829637;
   cacifo[242]=4997029;
-  cacifo[243]=4828828;
-  cacifo[244]=2390884;
-  cacifo[245]=4826496;
+  cacifo[243]=3429030;
+  cacifo[244]=5040793;
+  cacifo[245]=5042201;
   cacifo[246]=4825859;
-  cacifo[247]=4816746;
+  cacifo[247]=3385750;
   cacifo[248]=4829784;
   cacifo[249]=4829730;
-  cacifo[250]=4825864;
+  cacifo[250]=11602068;
   cacifo[251]=4830141;
   cacifo[252]=2396354;
   cacifo[253]=4858002;
@@ -277,16 +277,16 @@ void setup(){
   cacifo[256]=3429024;
   cacifo[257]=5002124;
   cacifo[258]=2405004;
-  cacifo[259]=2399459;
+  cacifo[259]=5028763;
   cacifo[260]=4828907;
-  cacifo[261]=4856812;
+  cacifo[261]=4982592;
   cacifo[262]=4836108;
   cacifo[263]=4829666;
   cacifo[264]=4825812;
   cacifo[265]=2405691;
   cacifo[266]=4833888;
   cacifo[267]=4825796;
-  cacifo[268]=4829820;
+  cacifo[268]=4991986;
   cacifo[269]=4830165;
   cacifo[270]=4829709;
   cacifo[271]=4826512;
@@ -295,7 +295,7 @@ void setup(){
   cacifo[274]=4830151;
   cacifo[275]=3435144;
   cacifo[276]=4830858;
-  cacifo[277]=2408099;
+  cacifo[277]=4828885;
   cacifo[278]=4816757;
   cacifo[279]=5013565;
   cacifo[280]=2389528;
@@ -323,14 +323,14 @@ void setup(){
   cacifo[302]=4834698;
   cacifo[303]=2412325;
   cacifo[304]=4836125;
-  cacifo[305]=4829696;
+  cacifo[305]=4858019;
   cacifo[306]=4836124;
   cacifo[307]=4858052;
   cacifo[308]=4855844;
-  cacifo[309]=4829797;
+  cacifo[309]=2386451;
   cacifo[310]=5018687;
   cacifo[311]=4853978;
-  cacifo[312]=4829733;
+  cacifo[312]=4824024;
   cacifo[313]=2393260;
   cacifo[314]=4854084;
   cacifo[315]=4853992;
@@ -399,7 +399,7 @@ void setup(){
   cacifo[378]=4829691;
   cacifo[379]=4829631;
   cacifo[380]=4833808;
-  cacifo[381]=5041264;
+  cacifo[381]=4857960;
   cacifo[382]=4856067;
   cacifo[383]=4856771;
   cacifo[384]=2407200;
@@ -421,7 +421,7 @@ void setup(){
   cacifo[400]=2382879;
   cacifo[401]=2395507;
   cacifo[402]=4826517;
-  cacifo[403]=4828830;
+  cacifo[403]=4828938;
   cacifo[404]=5028215;
   cacifo[405]=2407933;
   cacifo[406]=4857921;
@@ -457,7 +457,7 @@ void setup(){
   cacifo[436]=2409042;
   cacifo[437]=4823542;
   cacifo[438]=4823524;
-  cacifo[439]=5006480;
+  cacifo[439]=4857946;
   cacifo[440]=4830148;
   cacifo[441]=4857997;
   cacifo[442]=4825830;
@@ -474,7 +474,7 @@ void setup(){
   cacifo[453]=4832954;
   cacifo[454]=4823554;
   cacifo[455]=4830114;
-  cacifo[456]=3376431;
+  cacifo[456]=4857898;
   cacifo[457]=4830161;
   cacifo[458]=4829016;
   cacifo[459]=2393339;
@@ -548,7 +548,7 @@ void setup(){
   cacifo[527]=2410834;
   cacifo[528]=4816758;
   cacifo[529]=4835200;
-  cacifo[530]=5028818;
+  cacifo[530]=2411322;
   cacifo[531]=4830183;
   cacifo[532]=4823573;
   cacifo[533]=4829020;
@@ -621,7 +621,7 @@ long Read_ID(){
 void loop(){
     static long aux;     
     if(digitalRead(10)==1){ 
-        //while(rfid.available() > 0){ 
+        
             aux = tag;                 
             tag = Read_ID();           
             if(aux == tag || tag== 0)
@@ -657,8 +657,8 @@ void loop(){
                 
             } 
                    
-        //}
-    }
+        }
+    
     while(Serial.available() > 0){
        
         int contador=0;
